@@ -1,4 +1,4 @@
-# BAMI1 -PPG dataset
+# BAMI1 PPG dataset
 
 For the experiment, we developed a watch-type PPG measuring device. The developed device includes a 3-channel PPG sensor, an accelerometer and a gyroscope. For the acquisition of the PPG signal, photosensors (NJL5310R, NJR Corporation, Japan) integrating two green LEDs(wavelength: 525nm) and a photodetector was used. Three PPG sensors were placed at intervals of 6 mm. Acceleration and gyro values were collected using a 6-axis inertial measurement unit (IMU; LSM6DSMUSTR, STMicroelectronics). Three digital signals were stored using a micro-SD card. The three digital signals are simultaneously stored on a micro-SD card at a frequency of 50 Hz.
 
