@@ -11,7 +11,7 @@ https://sites.google.com/site/bamilab/biosignal-lab
 
 All datasets have copyrights. But you can freely use them for the Signal Processing Cup or your own academic research, as long as you suitably cite the data in your works. Please do not cite this website. Instead, please cite the following paper, since all training datasets come from it: 
 
-Lee, H., H. Chung, and J. Lee. "Motion artifact cancellation in wearable photoplethysmography using gyroscope." IEEE Sensors Journal 19.3 (2018): 1166-1175.
+ H. Lee, H. Chung, and J. Lee. "Motion artifact cancellation in wearable photoplethysmography using gyroscope." IEEE Sensors Journal 19.3 (2018): 1166-1175.
 
 URL: https://ieeexplore.ieee.org/abstract/document/8529266
 
